@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: February 17, 2019 
+<!--##### (delete me or comment me out)-->
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on aggression classification project 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Should have started working on early as this is weekend holiday!
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Classification using TF-IDF and SVM/Naive bayes](https://colab.research.google.com/drive/1H8JeWX4f3tb2cZ-ExC7qlbOTJ8oymseC#scrollTo=_Li34xTJkZf9)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
